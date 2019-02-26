@@ -1,4 +1,4 @@
-## Your Name
+## Masha (Marija) Budryte
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (March 2019 to May 2019)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,17 +34,21 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### King's College London (September 2014 to August 2017)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Nutrition BSc
+- 2.2
+- Director of Events @ King's Players (2015-2017)
+- Course Representative (2014-2016)
+- Russian Language Volunteer at Modern Language Centre
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**myrecovery** (August 2018 to December 2018)    
+*Junior Content Co-ordinator (Intern)*  
+**Fifty9 Bar** (November 2017 to July 2018)   
+*Bartender*
+**Look At Me Media** (August 2017 - Current)
+*Freelance contributor (Nutrition and Health)*  
