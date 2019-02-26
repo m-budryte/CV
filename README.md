@@ -44,6 +44,22 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Any other qualifications
 
+https://www.codewars.com/users/m-budryte/badges/large
+
+#### Codecademy courses
+Learn Command Line
+Learn Git
+Learn Ruby
+Introduction to JavaScript
+Learn Java
+
+#### freeCodeCamp courses
+Basic HTML and HTML5
+Basic CSS
+CSS Flexbox
+Basic JavaScript
+ES6
+
 ## Experience
 
 **myrecovery** (August 2018 to December 2018)    
@@ -52,3 +68,5 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 *Bartender*
 **Look At Me Media** (August 2017 - Current)
 *Freelance contributor (Nutrition and Health)*  
+**TheQuestion** (October 2016 - June 2017)
+*Content Coordinator*
