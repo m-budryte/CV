@@ -28,6 +28,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
 - Great collaborator [PROVIDE EVIDENCE]
+Hackathon Expedia March 2019
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
