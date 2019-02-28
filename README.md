@@ -2,6 +2,8 @@
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
+A soon-to-be software developer with Life Sciences background. I have experience in working in start-ups primarily in content management. Most recently I enrolled on the Software Development course in Makers Academy and looking for junior full-stack engineer position.
+
 ## Skills
 
 #### This Skill
@@ -45,6 +47,8 @@ Hackathon Expedia March 2019
 
 #### Any other qualifications
 
+/ MAKE A TABLE HERE /
+
 https://www.codewars.com/users/m-budryte/badges/large
 
 #### Codecademy courses
@@ -60,6 +64,11 @@ Basic CSS
 CSS Flexbox
 Basic JavaScript
 ES6
+
+#### Languages
+English, Russian, Hebrew, Lithuanian
+
+/ Another table? /
 
 ## Experience
 
