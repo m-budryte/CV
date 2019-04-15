@@ -52,7 +52,7 @@ Hackathon Expedia March 2019
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Sinatra, Rails, JavaScript
+- Ruby, Sinatra, Rails, JavaScript, jQuery
 - HTML/CSS, Bootstrap
 - RSpec, Jasmine
 - Travis CI
