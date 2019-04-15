@@ -1,4 +1,4 @@
-## Masha (Marija) Budryte
+## Masha Budryte
 
 [Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests) |
 
