@@ -52,8 +52,10 @@ Hackathon Expedia March 2019
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
+- Ruby, Sinatra, Rails, JavaScript
+- HTML/CSS, Bootstrap
 - RSpec, Jasmine
+- Travis CI
 
 #### King's College London (September 2014 - August 2017)
 
