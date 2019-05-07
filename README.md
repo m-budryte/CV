@@ -1,6 +1,8 @@
-## Masha Budryte
+# Masha Budryte
 
-[Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests) |
+## Web Developer
+
+[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests) |
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
@@ -10,12 +12,12 @@ However, I have always been interested in IT, that is why I have transformed my 
 
 ## Projects
 
-### Open Food Network
-#### UK Dev Hack
-4-5 May 2019
-*_Prize_*
-
-
+Projects|Description|Technology
+---|---|---
+**Open Food Network UK Dev Hack**, 4-5 May 2019| This was my first Hackathon where I had an opportunity to work on the live project. I was able to put the knowledge I had received in the coding bootcamp, such agile practices, pair programming and debugging. The OFN gave me an opportunity to work with new technologies, as they were using AngularJS in the front-end as well as solidify my knowledge in Rails.|Ruby on Rails, AngularJS, Coffeescript, HTML/CSS
+**Acebook**, Makers|This was my first Rails project and the second group challenge I did at the Makers coding bootcamp. Throughout this two-week project out team used Agile practices (e.g. daily stand-ups and retros, use of story points, sprints etc). We also had a chance to learn new frameworks, such as Rails and Coffeescript. In addition to the main task we were challenged to implement a chat room, using Action Cable functionality. | Ruby on Rails, Javascript, Coffeescript, PostgreSQL, HTML/CSS, Bootstrap
+**MakersBNB**, Makers|My first group project at the Makers bootcamp|Sinatra, JavaScript, PostgreSQL, HTML/CSS, Bootstrap|
+**Chitter**, Makers||Sinatra, PostgreSQL|
 
 ## Skills
 
@@ -53,11 +55,11 @@ I have always been a quick learner, particularly when it comes to using technolo
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
 - Great collaborator [PROVIDE EVIDENCE]
-Hackathon Expedia March 2019
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Sinatra, Rails, JavaScript, jQuery
+- Ruby, Sinatra, Rails,
+- JavaScript, jQuery
 - HTML/CSS, Bootstrap
 - RSpec, Jasmine
 - Travis CI
@@ -105,9 +107,9 @@ English, Russian, Hebrew, Lithuanian
 - Researched and produced article with evidence based approach on the trends in food, health and nutrition
 
 ## Other Experience
+**Swing Patrol**
+_Volunteer - Doorsome Crew_
+
 
 **Fifty9 Bar** (November 2017 - July 2018)
 *Bartender*
-
-**LeSoCo** (February 2015 - February 2016)
-*Invigilator*
