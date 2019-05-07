@@ -23,6 +23,11 @@ Projects|Description|Technology
 
 Skills|Experience
 ---|---
+Team player|
+Independent learner|
+Work under pressure|
+Rational approach|
+Problem solving|
 
 
 #### Communication
