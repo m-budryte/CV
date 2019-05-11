@@ -5,9 +5,7 @@
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
-I have gained experience in communication and content management while working in digital start-ups in non-tech positions. I have Life Sciences background from King's College London, have represented my course and ran events for one of the most prominent students theatre society - King's Players.
-
-However, I have always been interested in IT, that is why I have transformed my career to become a web developer.  Most recently I enrolled on the Software Development course in Makers Academy and looking for junior full-stack engineer position.
+I am a coding bootcamp graduate with a background in Life Sciences. I worked in tech environments in non-tech position as a research and communication coordinator, managed traffic and social media. I have completed the Software Development course at Makers Academy and looking for a position of the software developer.
 
 ## Projects
 
@@ -66,10 +64,11 @@ I have always been a quick learner, particularly when it comes to using technolo
 - Course Representative (2014 - 2016)
 - Russian Language Volunteer at Modern Language Centre
 
-#### Any other qualifications
-
 #### Languages
-English, Russian, Hebrew, Lithuanian
+
+English|Russian|Hebrew|Lithuanian
+---|---|---|---
+Proficient|Native Speaker|Beginner|Beginner
 
 ## Tech Experience
 
