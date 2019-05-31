@@ -4,16 +4,15 @@
 
 [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests) |
 
-A Full-Stack Software Developer with a previous background in Life Sciences. I have recently completed coding bootcamp at the [Makers Academy]( [https://makers.tech/](https://makers.tech/) ). I am currently looking for a junior developer role in a company, that values extreme programming values, Agile development process and will support my career progression. 
+A Full-Stack Software Developer with a previous background in Life Sciences. I have recently completed coding bootcamp at the [Makers Academy](https://makers.tech/). I am currently looking for a junior developer role in a company, that values extreme programming values, Agile development process and will support my career progression. 
 
 ## Projects
 
-Projects|Description|Technology
+Projects|Description|Tech Stack
 ---|---|---
-**Open Food Network UK Dev Hack**, 4-5 May 2019| This was my first Hackathon where I had an opportunity to work on the live project. I was able to put the knowledge I had received in the coding bootcamp, such agile practices, pair programming and debugging. The OFN gave me an opportunity to work with new technologies, as they were using AngularJS in the front-end as well as solidify my knowledge in Rails.|Ruby on Rails, AngularJS, Coffeescript, HTML/CSS
-**Acebook**, Makers|This was my first Rails project and the second group challenge I did at the Makers coding bootcamp. Throughout this two-week project out team used Agile practices (e.g. daily stand-ups and retros, use of story points, sprints etc). We also had a chance to learn new frameworks, such as Rails and Coffeescript. In addition to the main task we were challenged to implement a chat room, using Action Cable functionality. | Ruby on Rails, Javascript, Coffeescript, PostgreSQL, HTML/CSS, Bootstrap
-**MakersBNB**, Makers|My first group project at the Makers bootcamp|Sinatra, JavaScript, PostgreSQL, HTML/CSS, Bootstrap|
-**Chitter**, Makers||Sinatra, PostgreSQL|
+[**Neto**, Makers](https://github.com/mattTea/magnetism ) | Final Project at the Makers Academy. We have created an app for self-learning using two new languages within two weeks. Users are able to choose topics, subtopics, access resources and assess their understanding by rating each resource. | Python, Flask, React
+[**Open Food Network UK Dev Hack**](https://github.com/openfoodfoundation/openfoodnetwork)| The first hackathon I’ve attended and the first opportunity for me to work with a real codebase.  I was able to put the knowledge I had received in the coding bootcamp, such agile practices, pair programming and debugging. The OFN gave me an opportunity to work with new technologies, as they were using AngularJS in the front-end as well as solidify my knowledge in Rails. |Ruby on Rails, AngularJS, Coffeescript, HTML/CSS
+[**Acebook**, Makers](https://github.com/m-budryte/acebook-zuckerbros), |This was my first Rails project and the second group challenge I did at the Makers coding bootcamp. Throughout this two-week project out team used Agile practices (e.g. daily stand-ups and retros, use of story points, sprints etc). We also had a chance to learn new frameworks, such as Rails and Coffeescript. In addition to the main task we were challenged to implement a chat room, using Action Cable functionality. Currently, users can log in, post into the feed and join the chat room.| Ruby on Rails, Javascript, Coffeescript, PostgreSQL, HTML/CSS, Bootstrap
 
 ## Skills
 
