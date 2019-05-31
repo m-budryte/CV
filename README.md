@@ -4,11 +4,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests) |
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
-
-I have gained experience in communication and content management while working in digital start-ups in non-tech positions. I have Life Sciences background from King's College London, have represented my course and ran events for one of the most prominent students theatre society - King's Players.
-
-However, I have always been interested in IT, that is why I have transformed my career to become a web developer.  Most recently I enrolled on the Software Development course in Makers Academy and looking for junior full-stack engineer position.
+A Full-Stack Software Developer with a previous background in Life Sciences. I have recently completed coding bootcamp at the [Makers Academy]( [https://makers.tech/](https://makers.tech/) ). I am currently looking for a junior developer role in a company, that values extreme programming values, Agile development process and will support my career progression. 
 
 ## Projects
 
