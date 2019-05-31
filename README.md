@@ -16,43 +16,17 @@ Projects|Description|Tech Stack
 
 ## Skills
 
-Skills|Experience
----|---
-Team player|
-Independent learner|
-Work under pressure|
-Rational approach|
-Problem solving|
+#### Fast and independent learning
 
+I have always been very inquisitive and before joining coding bootcamp, I have taken coding courses, available on the codecademy, SoloLearn, freeCodeCamp and others. 
+During my time at [Makers Academy](makers.tech) I’ve improved my self-learning skills, recognised the importance of self-assessment and time-boxing. 
+While working at [myrecovery](https://www.myrecovery.ai/) I have been given a task to research video editing and then explain the best practices to the rest of the team. 
+I also continue my learning in the field of Nutrition while writing articles for  [Wonderzine](https://www.wonderzine.com/), which requires extensive research and reading scientific articles to challenge common misconceptions around food and its effects on health.
 
 #### Communication
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-I have experience in arranging and conducting interviews with the professionals with a variety of backgrounds. As a course representative I often had to act as missing elements in the communication between the department and students.  
-
-- Experience
-- Achievements
-- Evidence
-
-#### Independent learning
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-I have always been a quick learner, particularly when it comes to using technology. In my previous position at myrecovery I have learned to produce and edit videos, used for the app content and promotion purposes.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Teamwork
-
-#### Problem Solving
-
-#### Work Under Pressure
-
-## Education
+Before becoming a developer, I was heavily involved in the communication. For example, when I worked for [TheQuestion](https://thequestion.com/), I contacted prominent academics and other experts. I also worked on the growing the community and maintaining social media. 
+I believe that communication is the key in the effective web development and while being at Makers I improved this skill, particularly learned to give and receive constructive feedback, as well as be able to express my ideas to the team project. 
+Additionally, I worked in a customer service and hospitality which further helped me to improve my communication skills.
 
 #### Makers Academy (March - May 2019)
 
@@ -75,8 +49,6 @@ I have always been a quick learner, particularly when it comes to using technolo
 - Director of Events @ King's Players (2015 - 2017)
 - Course Representative (2014 - 2016)
 - Russian Language Volunteer at Modern Language Centre
-
-#### Any other qualifications
 
 #### Languages
 English, Russian, Hebrew, Lithuanian
