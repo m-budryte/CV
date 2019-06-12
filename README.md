@@ -86,6 +86,11 @@ English, Russian, Hebrew, Lithuanian
 **Swing Patrol**
 _Volunteer - Doorsome Crew_
 
+**Food Academy**
+_Volunteer Teacher Assistant for school groups_
+
+**King's College London - Modern Language Centre**
+_Volunteer - Russian Speaking Practice_
 
 **Fifty9 Bar** (November 2017 - July 2018)
-*Bartender*
+_Bartender_
