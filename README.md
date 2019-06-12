@@ -2,7 +2,7 @@
 
 ## Web Developer
 
-[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests) |
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Languages](#Languages)| [Experience](#experience) |[Other Experience](#Other Experience) |
 
 A Full-Stack Software Developer with a previous background in Life Sciences. I have recently completed coding bootcamp at the [Makers Academy](https://makers.tech/). I am currently looking for a junior developer role in a company, that values extreme programming values, Agile development process and will support my career progression. 
 
@@ -27,6 +27,8 @@ I also continue my learning in the field of Nutrition while writing articles for
 Before becoming a developer, I was heavily involved in the communication. For example, when I worked for [TheQuestion](https://thequestion.com/), I contacted prominent academics and other experts. I also worked on the growing the community and maintaining social media. 
 I believe that communication is the key in the effective web development and while being at Makers I improved this skill, particularly learned to give and receive constructive feedback, as well as be able to express my ideas to the team project. 
 Additionally, I worked in a customer service and hospitality which further helped me to improve my communication skills.
+
+## Education
 
 #### Makers Academy (March - May 2019)
 One of the leading developer bootcamps in Europe
@@ -53,8 +55,13 @@ One of the leading developer bootcamps in Europe
 - Course Representative (2014 - 2016)
 - Russian Language Volunteer at Modern Language Centre
 
-#### Languages
-English, Russian, Hebrew, Lithuanian
+## Languages
+Language|Level
+---|---
+English|Proficient
+Russian|Native Speaker
+Hebrew|Beginner
+Lithuanian|Beginner
 
 ## Experience
 
