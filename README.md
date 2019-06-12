@@ -11,7 +11,7 @@ A Full-Stack Software Developer with a previous background in Life Sciences. I h
 Projects|Description|Tech Stack
 ---|---|---
 [**Neto**, Makers](https://github.com/mattTea/magnetism ) | Final Project at the Makers Academy. We have created an app for self-learning using two new languages within two weeks. Users are able to choose topics, subtopics, access resources and assess their understanding by rating each resource. | Python, Flask, React
-[**Open Food Network UK Dev Hack**](https://github.com/openfoodfoundation/openfoodnetwork)| The first hackathon I’ve attended and the first opportunity for me to work with a real codebase.  I was able to put the knowledge I had received in the coding bootcamp, such agile practices, pair programming and debugging. The OFN gave me an opportunity to work with new technologies, as they were using AngularJS in the front-end as well as solidify my knowledge in Rails. |Ruby on Rails, AngularJS, Coffeescript, HTML/CSS
+[**Open Food Network UK Dev Hack**](https://github.com/openfoodfoundation/openfoodnetwork)| The first hackathon I’ve attended and the first opportunity for me to work with a real codebase.  I was able to put the knowledge I had received in the coding bootcamp, such as agile practices, pair programming and debugging. The OFN gave me an opportunity to work with new technologies, as they were using AngularJS in the front-end as well as solidify my knowledge in Rails. |Ruby on Rails, AngularJS, Coffeescript, HTML/CSS
 [**Acebook**, Makers](https://github.com/m-budryte/acebook-zuckerbros), |This was my first Rails project and the second group challenge I did at the Makers coding bootcamp. Throughout this two-week project out team used Agile practices (e.g. daily stand-ups and retros, use of story points, sprints etc). We also had a chance to learn new frameworks, such as Rails and Coffeescript. In addition to the main task we were challenged to implement a chat room, using Action Cable functionality. Currently, users can log in, post into the feed and join the chat room.| Ruby on Rails, Javascript, Coffeescript, PostgreSQL, HTML/CSS, Bootstrap
 
 ## Skills
@@ -26,7 +26,7 @@ I also continue my learning in the field of Nutrition while writing articles for
 #### Communication
 Before becoming a developer, I was heavily involved in the communication. For example, when I worked for [TheQuestion](https://thequestion.com/), I contacted prominent academics and other experts. I also worked on the growing the community and maintaining social media. 
 I believe that communication is the key in the effective web development and while being at Makers I improved this skill, particularly learned to give and receive constructive feedback, as well as be able to express my ideas to the team project. 
-Additionally, I worked in a customer service and hospitality which further helped me to improve my communication skills.
+Additionally, I worked in customer service and hospitality which further helped me to improve my communication skills.
 
 ## Education
 
@@ -90,7 +90,7 @@ Lithuanian|Beginner
 *Freelance contributor (Nutrition and Health)*  
 
 - Continuously contributed articles on the online platform, popular in Russia (over 7 mls unique users a month)
-- Researched and produced article with evidence based approach on the trends in food, health and nutrition
+- Researched and produced articles with evidence-based approach on the trends in food, health and nutrition
 
 ## Other Experience
 **Swing Patrol**
