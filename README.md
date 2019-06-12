@@ -29,18 +29,21 @@ I believe that communication is the key in the effective web development and whi
 Additionally, I worked in a customer service and hospitality which further helped me to improve my communication skills.
 
 #### Makers Academy (March - May 2019)
+One of the leading developer bootcamps in Europe
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+**Styles of programming covered:**
+- OOP, TDD, BDD, DRY
+- Pair-programming 
+- Agile development process
+- Extreme Programming
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Sinatra, Rails,
-- JavaScript, jQuery
-- HTML/CSS, Bootstrap
-- RSpec, Jasmine
-- Travis CI
+**Tech covered:**
+- Ruby: Sinatra, Rails
+- JavaScript: jQuery, React (final project)
+- Python (final project)
+- HTML/CSS, Bootstrap, Semantic UI (final project)
+- RSpec, Jasmine, Jest (final project)
+- Travis CI, Heroku
 
 #### King's College London (September 2014 - August 2017)
 
