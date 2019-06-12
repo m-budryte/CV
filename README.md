@@ -2,7 +2,7 @@
 
 ## Web Developer
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Languages](#Languages)| [Experience](#experience) |[Other Experience](#Other Experience) |
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Languages](#Languages)| [Experience](#experience) |[Other Experience](#Other) |
 
 A Full-Stack Software Developer with a previous background in Life Sciences. I have recently completed coding bootcamp at the [Makers Academy](https://makers.tech/). I am currently looking for a junior developer role in a company, that values extreme programming values, Agile development process and will support my career progression. 
 
