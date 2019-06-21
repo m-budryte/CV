@@ -2,9 +2,9 @@
 
 ## Web Developer
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Languages](#Languages)| [Experience](#experience) | [Other Experience](#Other-Experience) |
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Languages](#Languages)| [Experience](#experience) | [Other Experience](#Other-Experience) | [Tech Interests](#tech-interests)
 
-A Full-Stack Software Developer with a previous background in Life Sciences. I have recently completed coding bootcamp at the [Makers Academy](https://makers.tech/). I am currently looking for a junior developer role in a company, that values extreme programming values, Agile development process and will support my career progression. 
+A Full-Stack Software Developer with a previous background in Life Sciences. I have recently changed careers and completed coding bootcamp at the [Makers Academy](https://makers.tech/). I have made this decision after gaining experience in tech companies, working on manual Quality Assurance testing, localisation and content management. I am currently looking for a junior developer role in a company, that values extreme programming values, Agile development process and will support my career progression. 
 
 ## Projects
 
@@ -14,6 +14,7 @@ Projects|Description|Tech Stack
 [**Open Food Network UK Dev Hack**](https://github.com/openfoodfoundation/openfoodnetwork)| The first hackathon I’ve attended and the first opportunity for me to work with a real codebase.  I was able to put the knowledge I had received in the coding bootcamp, such as agile practices, pair programming and debugging. The OFN gave me an opportunity to work with new technologies, as they were using AngularJS in the front-end as well as solidify my knowledge in Rails. |Ruby on Rails, AngularJS, Coffeescript, HTML/CSS
 [**Acebook**, Makers](https://github.com/m-budryte/acebook-zuckerbros), |This was my first Rails project and the second group challenge I did at the Makers coding bootcamp. Throughout this two-week project out team used Agile practices (e.g. daily stand-ups and retros, use of story points, sprints etc). We also had a chance to learn new frameworks, such as Rails and Coffeescript. In addition to the main task we were challenged to implement a chat room, using Action Cable functionality. Currently, users can log in, post into the feed and join the chat room.| Ruby on Rails, Javascript, Coffeescript, PostgreSQL, HTML/CSS, Bootstrap
 
+Github pinned projects - link.
 ## Skills
 
 #### Fast and independent learning
@@ -49,8 +50,7 @@ One of the leading developer bootcamps in Europe
 
 #### King's College London (September 2014 - August 2017)
 
-- Nutrition BSc
-- 2.2
+- Nutrition BSc (Hons)
 - Director of Events @ King's Players (2015 - 2017)
 - Course Representative (2014 - 2016)
 - Russian Language Volunteer at Modern Language Centre
@@ -64,6 +64,13 @@ Hebrew|Beginner
 Lithuanian|Beginner
 
 ## Experience
+
+**Look At Me Media** (August 2017 - Current)
+
+*Freelance contributor (Nutrition and Health)*  
+
+- Continuously contributed articles on the online platform, popular in Russia (over 7 mls unique users a month)
+- Researched and produced articles with evidence-based approach on the trends in food, health and nutrition
 
 **myrecovery** (August 2018 - December 2018)
 
@@ -85,13 +92,6 @@ Lithuanian|Beginner
 - Localised the app into English from Russian
 - QA tested the app
 
-**Look At Me Media** (August 2017 - Current)
-
-*Freelance contributor (Nutrition and Health)*  
-
-- Continuously contributed articles on the online platform, popular in Russia (over 7 mls unique users a month)
-- Researched and produced articles with evidence-based approach on the trends in food, health and nutrition
-
 ## Other Experience
 **Swing Patrol**
 _Volunteer - Doorsome Crew_
@@ -104,3 +104,7 @@ _Volunteer - Russian Speaking Practice_
 
 **Fifty9 Bar** (November 2017 - July 2018)
 _Bartender_
+
+## Tech Interests
+
+I consistently attend tech meetups and particularly interested in projects, dedicated to bring social good and justice. After finishing the web development course, I have continued my learning journey and been studying Computer Science concepts and improving my coding skills.
