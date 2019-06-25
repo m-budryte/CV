@@ -108,3 +108,5 @@ _Bartender_
 ## Tech Interests
 
 I consistently attend tech meetups and particularly interested in projects, dedicated to bring social good and justice. After finishing the web development course, I have continued my learning journey and been studying Computer Science concepts and improving my coding skills.
+
+[![CodeWars](https://www.codewars.com/users/m-budryte/badges/small)](https://www.codewars.com/users/m-budryte)
