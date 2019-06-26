@@ -1,70 +1,66 @@
 # Masha Budryte
 ## Web Developer
 
-[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests) |
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Languages](#Languages)| [Experience](#experience) | [Other Experience](#Other-Experience) | [Tech Interests](#tech-interests)
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
-
-I am a coding bootcamp graduate with a background in Life Sciences. I worked in tech environments in non-tech position as a research and communication coordinator, managed traffic and social media. I have completed the Software Development course at Makers Academy and looking for a position of the software developer.
+A Full-Stack Software Developer with a previous background in Life Sciences. I have recently changed careers and completed coding bootcamp at the [Makers Academy](https://makers.tech/). I have made this decision after gaining experience in tech companies, working on manual Quality Assurance testing, localisation and content management. I am currently looking for a junior developer role in a company, that values extreme programming values, Agile development process and will support my career progression.
 
 ## Projects
 
-Projects|Description|Technology
+Projects|Description|Tech Stack
 ---|---|---
-**Open Food Network UK Dev Hack**, 4-5 May 2019| This was my first Hackathon where I had an opportunity to work on the live project. I was able to put the knowledge I had received in the coding bootcamp, such agile practices, pair programming and debugging. The OFN gave me an opportunity to work with new technologies, as they were using AngularJS in the front-end as well as solidify my knowledge in Rails.|Ruby on Rails, AngularJS, Coffeescript, HTML/CSS
-**Acebook**, Makers|This was my first Rails project and the second group challenge I did at the Makers coding bootcamp. Throughout this two-week project out team used Agile practices (e.g. daily stand-ups and retros, use of story points, sprints etc). We also had a chance to learn new frameworks, such as Rails and Coffeescript. In addition to the main task we were challenged to implement a chat room, using Action Cable functionality. | Ruby on Rails, Javascript, Coffeescript, PostgreSQL, HTML/CSS, Bootstrap
-**MakersBNB**, Makers|My first group project at the Makers bootcamp|Sinatra, JavaScript, PostgreSQL, HTML/CSS, Bootstrap|
-**Chitter**, Makers|One of the weekend challenges. I had a task to create a Twitter clone, using my newly acquired knowledge of SQL. |Sinatra, PostgreSQL|
+[**Neto**, Makers](https://github.com/mattTea/magnetism ) | Final Project at the Makers Academy. We have created an app for self-learning using two new languages within two weeks. Users are able to choose topics, subtopics, access resources and assess their understanding by rating each resource. | Python, Flask, React
+[**Open Food Network UK Dev Hack**](https://github.com/openfoodfoundation/openfoodnetwork)| The first hackathon I’ve attended and the first opportunity for me to work with a real codebase.  I was able to put the knowledge I had received in the coding bootcamp, such as agile practices, pair programming and debugging. The OFN gave me an opportunity to work with new technologies, as they were using AngularJS in the front-end as well as solidify my knowledge in Rails. |Ruby on Rails, AngularJS, Coffeescript, HTML/CSS
+[**Acebook**, Makers](https://github.com/m-budryte/acebook-zuckerbros), |This was my first Rails project and the second group challenge I did at the Makers coding bootcamp. Throughout this two-week project out team used Agile practices (e.g. daily stand-ups and retros, use of story points, sprints etc). We also had a chance to learn new frameworks, such as Rails and Coffeescript. In addition to the main task we were challenged to implement a chat room, using Action Cable functionality. Currently, users can log in, post into the feed and join the chat room.| Ruby on Rails, Javascript, Coffeescript, PostgreSQL, HTML/CSS, Bootstrap
 
+Github pinned projects - link.
 ## Skills
 
-Skills|Experience
----|---
-Team player|
-Independent learner|
-Work under pressure|
-Rational approach|
-Problem solving|
+#### Fast and independent learning
 
+I have always been very inquisitive and before joining coding bootcamp, I have taken coding courses, available on the codecademy, SoloLearn, freeCodeCamp and others.
+During my time at [Makers Academy](makers.tech) I’ve improved my self-learning skills, recognised the importance of self-assessment and time-boxing.
+While working at [myrecovery](https://www.myrecovery.ai/) I have been given a task to research video editing and then explain the best practices to the rest of the team.
+I also continue my learning in the field of Nutrition while writing articles for  [Wonderzine](https://www.wonderzine.com/), which requires extensive research and reading scientific articles to challenge common misconceptions around food and its effects on health.
 
 #### Communication
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-I have experience in arranging and conducting interviews with the professionals with a variety of backgrounds. As a course representative I often had to act as missing elements in the communication between the department and students.  
-
-- Experience
-- Achievements
-- Evidence
-
-#### Independent learning
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-I have always been a quick learner, particularly when it comes to using technology. In my previous position at myrecovery I have learned to produce and edit videos, used for the app content and promotion purposes.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Teamwork
-
-#### Problem Solving
-
-#### Work Under Pressure
+Before becoming a developer, I was heavily involved in the communication. For example, when I worked for [TheQuestion](https://thequestion.com/), I contacted prominent academics and other experts. I also worked on the growing the community and maintaining social media.
+I believe that communication is the key in the effective web development and while being at Makers I improved this skill, particularly learned to give and receive constructive feedback, as well as be able to express my ideas to the team project.
+Additionally, I worked in customer service and hospitality which further helped me to improve my communication skills.
 
 ## Education
 
+#### Makers Academy (March - May 2019)
+One of the leading developer bootcamps in Europe
+
+**Styles of programming covered:**
+- OOP, TDD, BDD, DRY
+- Pair-programming
+- Agile development process
+- Extreme Programming
+
+**Tech covered:**
+- Ruby: Sinatra, Rails
+- JavaScript: jQuery, React (final project)
+- Python (final project)
+- HTML/CSS, Bootstrap, Semantic UI (final project)
+- RSpec, Jasmine, Jest (final project)
+- Travis CI, Heroku
+
 #### King's College London (September 2014 - August 2017)
 
-- Nutrition BSc
-- 2.2
+- Nutrition BSc (Hons)
 - Director of Events @ King's Players (2015 - 2017)
 - Course Representative (2014 - 2016)
 - Russian Language Volunteer at Modern Language Centre
 
-#### Languages
+## Languages
+Language|Level
+---|---
+English|Proficient
+Russian|Native Speaker
+Hebrew|Beginner
+Lithuanian|Beginner
 
 English|Russian|Hebrew|Lithuanian
 ---|---|---|---
@@ -82,6 +78,13 @@ _Student, Web Development_
 - HTML/CSS, Bootstrap
 - RSpec, Jasmine
 - Travis CI
+
+**Look At Me Media** (August 2017 - Current)
+
+*Freelance contributor (Nutrition and Health)*  
+
+- Continuously contributed articles on the online platform, popular in Russia (over 7 mls unique users a month)
+- Researched and produced articles with evidence-based approach on the trends in food, health and nutrition
 
 **myrecovery** (August 2018 - December 2018)
 
@@ -103,13 +106,6 @@ _Student, Web Development_
 - Localised the app into English from Russian
 - QA tested the app
 
-**Look At Me Media** (August 2017 - Current)
-
-*Freelance contributor (Nutrition and Health)*  
-
-- Continuously contributed articles on the online platform, popular in Russia (over 7 mls unique users a month)
-- Researched and produced article with evidence based approach on the trends in food, health and nutrition
-
 ## Other Experience
 **Look At Me Media** (August 2017 - Current)
 _Freelance contributor (Nutrition and Health)_
@@ -117,26 +113,17 @@ _Freelance contributor (Nutrition and Health)_
 **Swing Patrol**
 _Volunteer - Doorsome Crew_
 
-**Queer Swing Dance Collective**
-_Volunteer - London Pride_
+**Food Academy**
+_Volunteer Teacher Assistant for school groups_
+
+**King's College London - Modern Language Centre**
+_Volunteer - Russian Speaking Practice_
 
 **Fifty9 Bar** (November 2017 - July 2018)
 _Bartender_
 
-## Education
+## Tech Interests
 
-#### King's College London (September 2014 - August 2017)
-_Nutrition BSc (Hons)_
+I consistently attend tech meetups and particularly interested in projects, dedicated to bring social good and justice. After finishing the web development course, I have continued my learning journey and been studying Computer Science concepts and improving my coding skills.
 
-- 2.2
-- Director of Events @ King's Players (2015 - 2017)
-- Course Representative (2014 - 2016)
-- Russian Language Volunteer at Modern Language Centre (2015)
-
-#### Bellerbys College Brighton (September 2011 - August 2014)
-_A-levels and iGCSEs_
-
-- A-levels: Russian, Maths, Further Maths, Biology, Chemistry, Russian (A*ABBB)
-- iGCSEs: Russian, ICT, Maths, English as a second language, Biology, Chemistry (A*A*A*A*AA)
-- Top ICT Student 2012
-- Top iGCSE student (scholarship)
+[![CodeWars](https://www.codewars.com/users/m-budryte/badges/small)](https://www.codewars.com/users/m-budryte)
