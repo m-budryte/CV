@@ -3,7 +3,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Languages](#Languages)| [Experience](#experience) | [Other Experience](#Other-Experience) | [Tech Interests](#tech-interests)
 
-A Full-Stack Software Developer with a previous background in Life Sciences. I have recently changed careers and completed coding bootcamp at the [Makers Academy](https://makers.tech/). I have made this decision after gaining experience in tech companies, working on manual Quality Assurance testing, localisation and content management. I am currently looking for a junior developer role in a company, that values extreme programming values, Agile development process and will support my career progression.
+A Full-Stack Consultant Developer with a previous background in Life Sciences. Currently working at ThoughtWorks consultancy. Experienced in the agile framework and extreme programming environment. 
 
 ## Projects
 
@@ -54,13 +54,6 @@ One of the leading developer bootcamps in Europe
 - Russian Language Volunteer at Modern Language Centre
 
 ## Languages
-Language|Level
----|---
-English|Proficient
-Russian|Native Speaker
-Hebrew|Beginner
-Lithuanian|Beginner
-
 English|Russian|Hebrew|Lithuanian
 ---|---|---|---
 Proficient|Native Speaker|Beginner|Beginner
@@ -78,42 +71,35 @@ _Student, Web Development_
 - RSpec, Jasmine
 - Travis CI
 
-**Look At Me Media** (August 2017 - Current)
-
-*Freelance contributor (Nutrition and Health)*  
-
-- Continuously contributed articles on the online platform, popular in Russia (over 7 mls unique users a month)
-- Researched and produced articles with evidence-based approach on the trends in food, health and nutrition
-
 **myrecovery** (August 2018 - December 2018)
-
+Medical Start-Up
 *Junior Content Co-ordinator (Intern)*  
 
-- Continuously QA tested mobile applications
-- Uploaded content on the app (articles, videos and others), using YAML and JavaScript languages
-- Created and edited videos using Adobe Premiere, iMovie and Lumen5
--  Presented the work results of the content team
-- Coordinated with Operations and Tech teams to deliver on deadlines
+- Manual QA of mobile applications
+- Content management for the app
+- Created and edited videos using Adobe Premiere, iMovie and Lumen making the app more accessible for users
+- Presented the work results of the Content team to the rest of the company
+- Communicated with Operations and Tech teams to align on targets
 
 **TheQuestion** (October 2016 - June 2017)
-
+Russian Education Start-Up
 *Content Coordinator*
 
 - Researched and recruited experts for the Q&A online platform
 - Conducted interviews and produced reliable content on a variety of topics
-- Managed social media pages and interacted with users
+- Managed social media pages, collected feedback from users
 - Localised the app into English from Russian
-- QA tested the app
+- QA of mobile app
 
 ## Other Experience
-**Look At Me Media** (August 2017 - Current)
+**Look At Me Media** (August 2017 - 2019)
 _Freelance contributor (Nutrition and Health)_
 
 **Swing Patrol**
 _Volunteer - Doorsome Crew_
 
 **Food Academy**
-_Volunteer Teacher Assistant for school groups_
+_Volunteer Teaching Assistant for school groups_
 
 **King's College London - Modern Language Centre**
 _Volunteer - Russian Speaking Practice_
