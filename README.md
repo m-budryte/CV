@@ -1,9 +1,44 @@
 # Masha Budryte
 ## Web Developer
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Languages](#Languages)| [Experience](#experience) | [Other Experience](#Other-Experience) | [Tech Interests](#tech-interests)
+[Projects](#projects) | [Tech Skills](#tech-skills) | [Skills](#skills) | [Education](#education) | [Languages](#Languages)| [Experience](#experience) | [Other Experience](#Other-Experience) | [Tech Interests](#tech-interests)
 
 A Full-Stack Consultant Developer with a previous background in Life Sciences. Currently working at ThoughtWorks consultancy. Experienced in the agile framework and extreme programming environment. 
+
+## Tech skills
+#### Languages
+- Java 
+- Ruby 
+- Python 
+- JavaScript
+
+#### Frameworks
+
+- Ruby-on-Rails
+- React.js
+- Vue.js
+
+#### Databases
+
+- SQL
+- Postgres
+- MongoDB
+- Firebase
+
+#### Software Engineering Approaches
+- Agile Development
+- Extreme Programming
+- CI/CD
+- Incremental Development
+- TDD
+
+#### Architecture
+- Microservices
+- Microfrontends
+- Event-driven
+- MVC
+- REST
+
 
 ## Projects
 
